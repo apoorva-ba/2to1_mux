@@ -35,5 +35,5 @@ y = (~sel & a) | (sel & b)
 X represents the don't care terms
 
 ##Author 
--Apoorva B A
+- Apoorva B A
 - ECE Student
